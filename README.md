@@ -34,9 +34,9 @@ DJ Keyboard is an interactive web application that transforms your keyboard into
 3. Enjoy the dynamic background effects while listening to music.
 
 ## Future Enhancements
-🎵 Allow users to select specific music genres.
-🔊 Add volume and playback controls.
-🎨 Implement user customization options for background effects.
+- 🎵 Allow users to select specific music genres.
+- 🔊 Add volume and playback controls.
+- 🎨 Implement user customization options for background effects.
 
 ---
 **Developed by:** *Jinal Patel*
